@@ -1,0 +1,160 @@
+body{
+    margin: 0px;
+    background: rgb(238,174,202);
+background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+text-align: center;
+font-family: 'Merriweather';  
+}
+
+
+.top-container {
+    position: relative;
+    padding-top: 100px;
+  
+}
+
+.middle-container {
+       
+    }
+
+.bottom-container {
+    position: relative;
+    padding-top: 40px;
+    padding-bottom : 20px; 
+    background-color: lightpink;
+      }
+
+.copy-right {
+color: purple;
+font-size: 0.75rem;
+padding: 20px 0;
+    }
+
+.contact-me {
+    margin-bottom: 100px;
+}
+
+.footer-link {
+margin: 0 30px;
+    }
+
+.pro {
+        text-decoration: underline;
+    }
+
+a {
+        text-decoration: none;
+    }
+
+
+.top-cloud {
+position: relative;
+margin: 10px 0px 10px 0px;
+right:  350px;
+top: 0px;
+width: 350px;
+    }
+
+.bottom-cloud { 
+        position: relative;
+        margin: 10px 10px 10px 10px;
+        left:  400px;
+        bottom: 100px;
+        width: 400px;
+        
+        }
+
+.profile {
+
+    border-radius: 100%;
+}
+
+hr {
+    border: dotted rgb(255, 226, 248) 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+  }
+
+h1{ 
+    font-family: 'Sacramento' ;
+    font-size: 5.625rem;
+    color: #b507c9;
+margin: 50px auto 0 auto;
+}
+
+h2 {
+font-family: 'Montserrat';
+font-size: 2.5rem;
+font-weight: normal;
+color:#b507c9;
+}
+
+h3 {
+    font-family: 'Montserrat';
+    color:#7a004b;
+
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.computer {
+    width: 25%;
+    float: left;
+    padding-right: 30px;
+}
+
+.love {
+    width: 25%;
+    float: right;
+    padding-left: 30px;
+}
+
+a:link {
+color: mediumorchid;    
+}
+
+a:visited {
+color: indianred;
+}
+
+a:hover {
+    color: rgb(95, 6, 88);
+}
+
+.btn {
+	box-shadow:inset 0px 0px 14px -3px #497194;
+	background:linear-gradient(to bottom, #e6c6d3 5%, #92b2e8 100%);
+	background-color:#e6c6d3;
+	border-radius:6px;
+	border:1px solid #703875;
+	display:inline-block;
+	cursor:pointer;
+	color:#4f84b3;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+    text-shadow:0px 1px 0px #ff52e5;
+    margin-top: 30px;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #92b2e8 5%, #e6c6d3 100%);
+	background-color:#92b2e8;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+
+
+
+    
+ /*   #e72d2d , background-color: rgb(144, 238, 214); ,  #fcb1b1; #96f7d2; */
+
